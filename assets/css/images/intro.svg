@@ -4,14 +4,14 @@
 	width="1000px"
 	height="1000px"
 	viewBox="0 0 1000 500" 
-	zoomAndPan="disable" 
+	zoomAndPan="disable"
 preserveAspectRatio="none">
 
     <style type="text/css"><![CDATA[
 		line
 		{
 			stroke: rgba(65,255,255);
-			stroke-width: 0.5px;
+			stroke-width: 0.2px;
 		}
     ]]></style>
 
