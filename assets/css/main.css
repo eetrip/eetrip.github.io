@@ -3928,7 +3928,8 @@ body.is-preload #sidebar nav ul li {
 /* enter main page background image here */
 #intro {
   background-attachment: fixed;
-  background-image: url("images/intro.svg");
+  /* background-image: url("images/intro.svg"); */
+  background-image: url("../../experiments/bg.svg");
   /* background-color: black; */
   background-position: top right;
   background-repeat: no-repeat;
