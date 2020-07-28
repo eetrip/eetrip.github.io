@@ -3,7 +3,7 @@
 	xmlns:xlink="http://www.w3.org/1999/xlink" 
 	width="1000px"
 	height="1000px"
-	viewBox="20 20 600 600" 
+	viewBox="0 0 500 500" 
 	zoomAndPan="disable" 
 preserveAspectRatio="none">
 
@@ -11,7 +11,7 @@ preserveAspectRatio="none">
 		line
 		{
 			stroke: rgba(65,255,255);
-			stroke-width: 0.2px;
+			stroke-width: 1px;
 		}
     ]]></style>
 
