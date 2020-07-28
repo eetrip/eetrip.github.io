@@ -10,8 +10,8 @@ preserveAspectRatio="none">
     <style type="text/css"><![CDATA[
 		line
 		{
-			stroke: rgba(65,255,255);
-			stroke-width: 1px;
+			stroke: rgba(65,255,255, 0.2);
+			stroke-width: 0.7px;
 		}
     ]]></style>
 

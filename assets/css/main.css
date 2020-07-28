@@ -265,6 +265,7 @@ i {
 
 p {
   margin: 0 0 2em 0;
+  color: white;
 }
 
 h1,
@@ -2081,7 +2082,7 @@ button:hover:active:after,
   flex-wrap: wrap;
   border-radius: 0.25em;
   border: solid 1px rgba(255, 255, 255, 0.15);
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.08);
   margin: 0 0 2em 0;
 }
 
@@ -3127,7 +3128,7 @@ body.is-ie .spotlights > section {
   -ms-justify-content: center;
   justify-content: center;
   width: 50em;
-  -ms-flex: 1;
+  /* -ms-flex: 1; */
 }
 
 .spotlights > section > .content > .inner {
@@ -3928,7 +3929,6 @@ body.is-preload #sidebar nav ul li {
 /* enter main page background image here */
 #intro {
   background-attachment: fixed;
-  /* background-image: url("images/intro.svg"); */
   background-image: url("../../experiments/bg.svg");
   /* background-color: black; */
   background-position: top right;
@@ -3938,7 +3938,8 @@ body.is-preload #sidebar nav ul li {
 
 #one {
   background-attachment: fixed;
-  /* background-image: url("images/intro2.svg"); */
+  background-image: url("images/intro2.svg");
+  /* background-image: url("../../experiments/bg.svg"); */
   background-color: rgb(0, 0, 0, 0);
   background-position: top right;
   background-repeat: no-repeat;
@@ -3956,8 +3957,8 @@ body.is-preload #sidebar nav ul li {
 
 #three {
   background-attachment: fixed;
-  /* background-image: url("images/intro4.svg"); */
-  background-color: black;
+  background-image: url("images/intro4.svg");
+  /* background-color: black; */
   background-position: top right;
   background-repeat: no-repeat;
   background-size: 100% 100%;
