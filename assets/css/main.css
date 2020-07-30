@@ -3938,7 +3938,7 @@ body.is-preload #sidebar nav ul li {
 
 #one {
   background-attachment: fixed;
-  background-image: url("images/intro2.svg");
+  /* background-image: url("images/intro2.svg"); */
   /* background-image: url("../../experiments/bg.svg"); */
   background-color: rgb(0, 0, 0, 0);
   background-position: top right;
@@ -3948,8 +3948,8 @@ body.is-preload #sidebar nav ul li {
 
 #two {
   background-attachment: fixed;
-  background-image: url("images/intro3.svg");
-  /* background-color: black; */
+  /* background-image: url("images/intro3.svg"); */
+  background-color: black;
   background-position: top right;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -3957,8 +3957,26 @@ body.is-preload #sidebar nav ul li {
 
 #three {
   background-attachment: fixed;
-  background-image: url("images/intro4.svg");
-  /* background-color: black; */
+  /* background-image: url("images/intro3.svg"); */
+  background-color: black;
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#four {
+  background-attachment: fixed;
+  /* background-image: url("images/intro3.svg"); */
+  background-color: black;
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#five {
+  background-attachment: fixed;
+  /* background-image: url("images/intro3.svg"); */
+  background-color: black;
   background-position: top right;
   background-repeat: no-repeat;
   background-size: 100% 100%;
